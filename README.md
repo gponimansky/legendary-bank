@@ -3,7 +3,7 @@
 ## About
 Utilized Java to create Client/Server connection using TCP/IP, and added a GUI for easier utilization of the application.
 
-## Resized Screenshots
+## Screenshots
 
 | <img src="https://github.com/gponimansky/legendary-bank/blob/master/Images/Capture.PNG" width="280" alt="Main Screen"> | <img src="https://github.com/gponimansky/legendary-bank/blob/master/Images/Capture1.PNG" width="280" alt="Add Accounts"> |
 |:-:|:-:|
